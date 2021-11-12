@@ -1,0 +1,26 @@
+/*General*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/*Utils*/
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/*Products*/
+header{
+    background-color: #E579E6;
+    height: 80px;
+    margin-top: 15px;
+}
+
+main{
+    background-color: #E1D67A;
+    height: 400px;
+    margin-top: 15px;
+}
