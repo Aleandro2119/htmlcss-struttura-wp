@@ -12,6 +12,11 @@
     margin: 0 auto;
 }
 
+#ground{
+    padding-bottom: 15px;
+    background-color: #0086FF;
+}
+
 /*Products*/
 header{
     background-color: #E579E6;
@@ -19,7 +24,7 @@ header{
     margin-top: 15px;
 }
 
-main{
+#spotlight{
     background-color: #E1D67A;
     height: 400px;
     margin-top: 15px;
@@ -30,12 +35,14 @@ main{
     margin-top: 15px;
     margin-bottom: 15px;
     background-color: #ABCFE7;
+    padding-bottom: 15px;
 }
 
-footer{
+footer {
     background-color: #8801FE;
     height: 40px;
     margin-top: 15px;
+    
     
 }
 
